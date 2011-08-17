@@ -2,7 +2,7 @@
   "author": "Patrick Forringer <patrick@forringer.com> (patrick.forringer.com)",
   "name": "upcheck",
   "description": "Checks if my website is up",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/destos/upcheck",
   "repository": {
     "type": "git",
@@ -12,11 +12,11 @@
     "node": "~v0.4.10"
   },
   "dependencies": {
-		"optimist": ">=0.2.6",
-		"querystring": ">=0.0.4",
-		"request": ">=2.1.0",
-		"underscore": ">=1.1.7"
-	},
-	"main": "./lib/upcheck.js",
+    "optimist": ">=0.2.6",
+    "querystring": ">=0.0.4",
+    "request": ">=2.1.0",
+    "underscore": ">=1.1.7"
+  },
+  "main": "./lib/upcheck.js",
   "devDependencies": {}
 }
