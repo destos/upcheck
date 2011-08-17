@@ -1,0 +1,16 @@
+{
+  "author": "Patrick Forringer <patrick@forringer.com> (patrick.forringer.com)",
+  "name": "upcheck",
+  "description": "Checks if my website is up",
+  "version": "0.0.0",
+  "homepage": "https://github.com/destos/upcheck",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/destos/upcheck.git"
+  },
+  "engines": {
+    "node": "~v0.4.10"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
