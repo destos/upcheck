@@ -17,6 +17,8 @@
     "request": ">=2.1.0",
     "underscore": ">=1.1.7"
   },
-  "main": "./lib/upcheck.js",
+  "bin": {
+    "longy":"./bin/upcheck"
+  },
   "devDependencies": {}
 }
